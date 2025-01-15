@@ -1,7 +1,7 @@
 public class StringConcat {
     public static void main(String[] args) {
         String str = "Harsh loves";
-        String str2 = "Nandini";
+        String str2 = "Travel";
         int s1 = 0;
         int s2 = 0;
         char[] result = new char[str.length() + str2.length() + 1];
